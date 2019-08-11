@@ -7,24 +7,6 @@
   text-align:center;
   line-height:normal;
 }
-._形状 {
-  font-family:'ArialMT', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:13px;
-  color:#333333;
-  text-align:center;
-  line-height:normal;
-}
-._图片 {
-}
-.heading_1 {
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
-  font-weight:700;
-  font-style:normal;
-  font-size:32px;
-  text-align:left;
-}
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
@@ -69,149 +51,36 @@
 ._文本段落 {
   text-align:left;
 }
-._文本链接 {
-  color:#0000FF;
-}
-.line {
-}
-.arrow {
-}
-.text_field {
-  color:#000000;
-  text-align:left;
-}
-.text_area {
-  color:#000000;
-  text-align:left;
-}
-.droplist {
-  color:#000000;
-  text-align:left;
-}
-.checkbox {
-  text-align:left;
-}
-.radio_button {
-  text-align:left;
-}
-.html_button {
-  text-align:center;
-}
-.table_cell {
-}
-.menu_item {
-}
-._流程形状 {
-}
-._连接线 {
-  font-family:'ArialMT', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:13px;
-  color:#333333;
-  text-align:center;
-  line-height:normal;
-}
-.sticky_1 {
-  text-align:left;
-}
-.marker {
-  color:#FFFFFF;
-}
-._图片1 {
-  color:#000000;
-}
-.button {
-}
-.primary_button {
-  color:#FFFFFF;
-}
-.link_button {
-  color:#169BD5;
-}
-.box_2 {
-}
-.box_1 {
-}
-.heading_2 {
-  font-family:'ArialMT', 'Arial';
-  font-weight:bold;
-  font-style:normal;
-  font-size:24px;
-  text-align:left;
-}
-.box_3 {
-}
-.ellipse {
-}
-.icon {
+._图片 {
 }
 .label {
   font-size:14px;
   text-align:left;
 }
-.image {
+.line {
 }
-.placeholder {
+.box_1 {
 }
-.flow_shape {
+.button {
 }
-._文本 {
-  text-align:left;
+.marker {
+  color:#FFFFFF;
 }
-._形状1 {
-}
-._图像 {
-  color:#000000;
-}
-._图片2 {
-}
-.paragraph {
-  text-align:left;
-}
-.image1 {
-  color:#000000;
+.icon {
 }
 .shape {
 }
-.icon1 {
+.ellipse {
 }
-.vertical_line {
+.placeholder {
 }
-._图像1 {
-}
-._文本框_单行_ {
-  text-align:left;
-}
-.shape1 {
-}
-._文本1 {
-  text-align:left;
-}
-._标题_1 {
-  font-family:'ArialMT', 'Arial';
-  font-weight:bold;
-  font-style:normal;
-  font-size:32px;
-  text-align:left;
-}
-._标题_2 {
-  font-family:'ArialMT', 'Arial';
-  font-weight:bold;
-  font-style:normal;
-  font-size:24px;
-  text-align:left;
-}
-._默认样式 {
-}
-.paragraph1 {
-  text-align:left;
-}
-._形状2 {
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
-  font-weight:700;
-  font-style:normal;
-  color:#FF0066;
+._图像 {
 }
 .ellipse1 {
+}
+.image {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
 }
